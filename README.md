@@ -3,7 +3,7 @@ In this project we talk about (SER) machine learning we use CNN (Conv1d), (SER) 
 
 # Prepare before Running
 Now i want to guide you how to download this project , you have to download the fills , i work with python3.8 also anaconda prompt to download some Libraries. 
-To download the libraries , you must have to write in anaconda prompt,exe:(pip install numpy).
+To download the libraries , you must have to write in anaconda prompt,exe:(pip install numpy) if you don't have a pip go to cmd and download it from there.
 
 # Download DataSet
 To download the dataset that i used, you should to click in this link and download it from google drive() .
