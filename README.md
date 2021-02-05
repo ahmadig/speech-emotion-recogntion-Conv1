@@ -6,7 +6,7 @@ Now i want to guide you how to download this project , you have to download the 
 To download the libraries , you must have to write in anaconda prompt,exe:(pip install numpy).
 
 # Download DataSet
-To download the dataset that i used, you should to clikc in this link and download it from google drive() .
+To download the dataset that i used, you should to click in this link and download it from google drive() .
 another file that you can download , scroll down and download the file of the speech
 https://zenodo.org/record/1188976#.YB0_rmgzZPY maybe you will got accuracy 60% , to up accuracy you must have to add more folders for the speech.
 # how to run the code 
