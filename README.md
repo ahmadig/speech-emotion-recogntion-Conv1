@@ -10,6 +10,6 @@ To download the dataset that i used, you should to click in this link and downlo
 another file that you can download , scroll down and download the file of the speech
 https://zenodo.org/record/1188976#.YB0_rmgzZPY maybe you will got accuracy 60% , to up accuracy you must have to add more folders for the speech.
 # how to run the code 
-Firstlly after you upload the code to python and save the dataset and do all changes pathe 
-by where you saved the files , you run first Datasetload creates a folder in name joblib that save the Datasetload after you run this section of code , secondlly you run file model in this file we see the we use Conv1D, and we save the model in folder by name model.h5 after we run this section un the console we see the accurse that we got from the test 
+Firstly after you upload the code to python and save the dataset and do all changes pathe by where you saved the files , first you run Datasetload creates a folder in name joblib that save the Datasetload after you run this section of code 
+Secondlly you run file model in this file you see thet we use Conv1D, and we save the model in folder by name model.h5 after we run this section in the console we see the accuracy that we got from the test.
 Finally we run predictTest , in this file do tests for 8 sounds and we gקt the output in the console of the sounds to do this you ust have to put the file TestedSounds with the files . 
