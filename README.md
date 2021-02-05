@@ -8,4 +8,9 @@ To download the libraries , you must have to write in anaconda prompt,exe:(pip i
 # download dataset
 
 # how to run the code 
+Firstlly after you upload the code to python and save the dataset and change all the pathe 
+By where you saved the files , you run first Datasetload creates a folder in name joblib that save the Datasetload after you run this section of code , secondlly you run file model in this file we see the we use Conv1D, and we save the model in folder by name model.h5 after we run this section un the console we see the accurse that we got from the test 
+finally we run predictTest , in this file do tests for sound to what is the emotion that we got and we do this for all emotion to bemore eayse when we run the code to see what is the emotion for this sound  
+
+
 
