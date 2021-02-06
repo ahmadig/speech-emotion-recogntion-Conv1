@@ -33,7 +33,7 @@ X = np.asarray(X)
 # to convert array into 5252,
 y = np.asarray(y)
 
-# save the data into joblib file to load the data faster.
+# save the data into joblib file to load the data faster
 X_name = 'X.joblib'
 y_name = 'y.joblib'
 save_dir = '\\Users\\ahmad\\SER\\joblib\\'
