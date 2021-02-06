@@ -25,7 +25,7 @@ model = Sequential()
 model.add(Conv1D(64,5,padding='same',input_shape=(40,1)))
 # relu used for to change the value of negative numbers to 0
 model.add(Activation('relu'))
-#we use dropout to remove randomly selected neurons that ignored during training. 
+#we use dropout to remove randomly selected neurons that ignored during training
 model.add(Dropout(0.1))
 # we use maxpoling to take the maximum of 4 in data
 model.add(MaxPooling1D(pool_size=(4)))
