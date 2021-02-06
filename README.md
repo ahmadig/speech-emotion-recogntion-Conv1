@@ -1,6 +1,9 @@
 # Speech-Emotion-Recogntion-Conv1
 In this project we talk about (SER) machine learning we use CNN (Conv1d), (SER) is  analysis of any kind of signal data over a fixed-length period (such as audio signals).
 
+
+![Screenshot 2021-02-06 205012](https://user-images.githubusercontent.com/65724677/107127197-25f73e00-68bd-11eb-8e07-e46ebb8aabbf.png)
+
 # Prepare before Running
 Now i want to guide you how to download this project , you have to download the files , i work with python3.8 also anaconda prompt to download some Libraries. 
 To download the libraries , you must have to write in anaconda prompt,exe:(pip install numpy) if you don't have a pip go to cmd and download it from there.
