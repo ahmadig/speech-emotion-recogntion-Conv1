@@ -9,7 +9,7 @@ Now i want to guide you how to download this project , you have to download the 
 To download the libraries , you must have to write in anaconda prompt,exe:(pip install numpy) if you don't have a pip go to cmd and download it from there.
 
 # Download DataSet
-click on the link to download Dataset https://zenodo.org/record/1188976#.YB0_rmgzZPY , scroll down and download the file zip speech
+Click on the link to download Dataset https://zenodo.org/record/1188976#.YB0_rmgzZPY , scroll down and download the file zip speech
  maybe you will got accuracy 60% , to up accuracy you must have to add more folders sounds for the speech.
 # how to run the code 
 After you upload the code to python and save the dataset and do all changes path by where you saved the files , firstly you run Datasetload.py it will create a folder in name joblib that save the Datasetload after you run this section of code .
