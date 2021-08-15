@@ -1,4 +1,4 @@
-# Speech-Emotion-Recogntion-Conv1
+# Speech-Emotion-Recogntion-Conv1D
 In this project we talk about (SER) machine learning we use CNN (Conv1d), (SER) is  analysis of any kind of signal data over a fixed-length period (such as audio signals).
 
 
